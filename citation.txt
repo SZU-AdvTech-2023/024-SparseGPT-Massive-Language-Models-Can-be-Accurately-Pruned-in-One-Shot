@@ -1,0 +1,8 @@
+@inproceedings{REPO024,
+    author = "Frantar, Elias and Alistarh, Dan",
+    booktitle = "International Conference on Machine Learning",
+    organization = "PMLR",
+    pages = "10323--10337",
+    title = "{SparseGPT: Massive Language Models Can be Accurately Pruned in One-Shot}",
+    year = "2023"
+}
